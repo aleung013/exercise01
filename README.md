@@ -1,4 +1,3 @@
 - Alvin Leung
-- ![My photo]()
+- ![My photo](Profile.jpg)
 - May 2015
-- 
